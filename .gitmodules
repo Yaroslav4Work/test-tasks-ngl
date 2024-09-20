@@ -1,0 +1,9 @@
+[submodule "file-checker-cli"]
+	path = file-checker-cli
+	url = https://github.com/Yaroslav4Work/file-checker-cli
+[submodule "actix-websockets-crud"]
+	path = actix-websockets-crud
+	url = https://github.com/Yaroslav4Work/actix-websockets-crud
+[submodule "matrix-multithread-multiply"]
+	path = matrix-multithread-multiply
+	url = https://github.com/Yaroslav4Work/matrix-multithread-multiply
