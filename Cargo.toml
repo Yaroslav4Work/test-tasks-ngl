@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+	"file-checker-cli",
+	"actix-websockets-crud",
+	"matrix-multithread-multiply",
+]
